@@ -7,6 +7,7 @@
     tools:context=".MainActivity">
 
     <ImageButton
+        android:src="@drawable/picture"
         android:id="@+id/ibPicture"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
